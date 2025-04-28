@@ -13,11 +13,12 @@
 - Неуспешные: 19.44%.
 
 *Allure отчёт:*
-![1](V:\1.png)
-![2](V:\2.png)
-![3](V:\3.png)
-![4](V:\4.png)
+![1](https://github.com/user-attachments/assets/0c634a73-9372-471c-986a-648b47859a72)
+![2](https://github.com/user-attachments/assets/6c57382b-9c02-4506-873c-4e2e186842cc)
+![3](https://github.com/user-attachments/assets/b6e68cc7-a212-4ff1-9787-5338ee75d7ac)
+![4](https://github.com/user-attachments/assets/897280f0-b85a-44cc-8583-11b364b366d1)
 
-**Общие рекомендации:**
+
+**Общие рекомендации
 - Исправить выявленные дефекты;
 - Разработать более подробные требования и спецификацию для данного приложения.
